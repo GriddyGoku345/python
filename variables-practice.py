@@ -18,10 +18,10 @@
 # Define a variable called favorite_singer and assign it the string value that is your favorite singer (using a pair of double quotes)
 # Define a variable called greeting and assign it a string value you'd use to greet someone (Good morning, Good afternoon, etc.)
 # Use the print function to print the value of one of three variables you created in Part 1
-school = 'north central academy'
-favorite_band = 'imagine dragons'
-greeting = 'good afternoon'
-
+school= 'north central academy'
+favorite_band= 'imagine dragons'
+greeting= 'good afternoon'
+print(favorite_band)
 
 
 
@@ -30,8 +30,10 @@ greeting = 'good afternoon'
 # Define a variable called conversion_factor and assign it the value of 2.54 (a float/floating-point number)
 # Define a variable called book_price and assign it a value of 20.99 (a float/floating-point number)
 # Use the print function to print the value of one of three variables you created in Part 2
-
-
+my_age= 18
+conversion_factor= 2.54
+book_price= 20.99
+print(book_price)
 
 
 # Part 3 / Working with the print ( ) Function
@@ -40,3 +42,11 @@ greeting = 'good afternoon'
 # Use the print function to print your first name on your screen
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
+first_name= 'Isaac'
+my_city= 'Kalkaska'
+
+print(first_name)
+
+print(my_city)
+
+print(my_age)
