@@ -16,5 +16,6 @@
 
 3. List 2 - 3 guidelines to keep in mind when naming your Python variables.
     -  Write the name of your Python variable in lowercase
-    -  don do this: age = "18'
-    -  Answer here
+    -  Dont do this: age = "18'
+    -  Dont start the variable with a number
+    -  Keep it short and simple
